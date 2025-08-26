@@ -219,7 +219,7 @@ namespace LinqPractice
             {
                 Console.WriteLine(i);
             }
-
+            Console.WriteLine("Testing if this works");
         }
 
 
